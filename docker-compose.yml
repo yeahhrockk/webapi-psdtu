@@ -1,0 +1,32 @@
+
+services:
+  webapi:
+    container_name: webbb-api
+    image: yeahhrockk/1webapi:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    ports:
+      - "5101:80"
+    depends_on:
+      - db
+    environment:
+        - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Username=sasha;Password=mysecretpassword;Database=TestContDB
+        - ASPNETCORE_ENVIRONMENT=Development
+        - ASPNETCORE_URLS=http://+:80
+  db:
+    image: postgres:latest
+    container_name: some-ppostgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: sasha
+      POSTGRES_PASSWORD: mysecretpassword
+      POSTGRES_DB: TestContDB
+    volumes:
+      - postgres-ddata:/var/lib/postgresql/data
+
+volumes:
+  postgres-ddata: 
+    external: true

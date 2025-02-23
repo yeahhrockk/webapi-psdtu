@@ -1,0 +1,270 @@
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/appsettings.Development.json
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/appsettings.json
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/WebApplication1
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/WebApplication1.deps.json
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/WebApplication1.runtimeconfig.json
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/WebApplication1.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/WebApplication1.pdb
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.AssemblyReference.cache
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfoInputs.cache
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfo.cs
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.CoreCompileInputs.cache
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/staticwebassets/msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApplication1.props
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication1.props
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApplication1.props
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/scopedcss/bundle/WebApplication1.styles.css
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/WebAppli.7D14BD69.Up2Date
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/WebApplication1.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/refint/WebApplication1.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/WebApplication1.pdb
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/WebApplication1.genruntimeconfig.cache
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/obj/Debug/net8.0/ref/WebApplication1.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Humanizer.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Npgsql.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/System.CodeDom.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/System.Text.Json.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web-3 demo/WebApplication1/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/appsettings.Development.json
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/appsettings.json
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/WebApplication1
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/WebApplication1.deps.json
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/WebApplication1.runtimeconfig.json
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/WebApplication1.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/WebApplication1.pdb
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Humanizer.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Npgsql.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/System.CodeDom.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/System.Text.Json.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.AssemblyReference.cache
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfoInputs.cache
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfo.cs
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.CoreCompileInputs.cache
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/staticwebassets/msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApplication1.props
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication1.props
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApplication1.props
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/scopedcss/bundle/WebApplication1.styles.css
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/WebAppli.7D14BD69.Up2Date
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/WebApplication1.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/refint/WebApplication1.dll
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/WebApplication1.pdb
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/WebApplication1.genruntimeconfig.cache
+/Users/sashakripak/ClassroomApp/TestsWebAPI-folder/web2sas/WebApplication1/obj/Debug/net8.0/ref/WebApplication1.dll
