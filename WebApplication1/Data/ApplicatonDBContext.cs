@@ -9,16 +9,27 @@ namespace WebApplication1.Data
 {
     public class ApplicatonDBContext : DbContext
     {
-        //координация EFCore в базе данных
+        // координация EFCore в базе данных
         public ApplicatonDBContext(DbContextOptions dbContextOptions)
-        :base(dbContextOptions)
+            : base(dbContextOptions) { }
+        public DbSet<User> UseR { get; set; }
+        public DbSet<Role> RoleS { get; set; } 
+        public DbSet<Permission> Permissions { get; set; } 
+        
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            
-        }
+            // связь User - Role через прокси-таблицу UserRoles (many-to-many)
+            modelBuilder.Entity<User>()
+                .HasMany(u => u.RoleU_R)
+                .WithMany(r => r.UserR_U)
+                .UsingEntity(j => j.ToTable("UserRoles"));
 
-//          The code above establishes a DbSet<Urers> property representing the enentity set. 
-//      In the language of Entity Framework, an tity set generally aligns with a database table,
-//      and an entity corresponds to an individual row within that table. (объяснили на медиум.ком)
-        public DbSet<Userss> Users { get; set; } 
+            // связь Role - Permission через прокси-таблицу RolePermissions (many-to-many)
+            modelBuilder.Entity<Role>()
+                .HasMany(r => r.PermissionR_P)
+                .WithMany(p => p.RoleP_R)
+                .UsingEntity(j => j.ToTable("RolePermissions"));
+        }
+        
     }
 }

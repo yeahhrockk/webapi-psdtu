@@ -21,13 +21,74 @@ namespace WebApplication1.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
-            modelBuilder.Entity("WebApplication1.Models.Userss", b =>
+            modelBuilder.Entity("PermissionRole", b =>
+                {
+                    b.Property<int>("PermissionR_PId")
+                        .HasColumnType("integer");
+
+                    b.Property<int>("RoleP_RId")
+                        .HasColumnType("integer");
+
+                    b.HasKey("PermissionR_PId", "RoleP_RId");
+
+                    b.HasIndex("RoleP_RId");
+
+                    b.ToTable("RolePermissions", (string)null);
+                });
+
+            modelBuilder.Entity("RoleUser", b =>
+                {
+                    b.Property<int>("RoleU_RId")
+                        .HasColumnType("integer");
+
+                    b.Property<int>("UserR_UId")
+                        .HasColumnType("integer");
+
+                    b.HasKey("RoleU_RId", "UserR_UId");
+
+                    b.HasIndex("UserR_UId");
+
+                    b.ToTable("UserRoles", (string)null);
+                });
+
+            modelBuilder.Entity("WebApplication1.Models.Permission", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer");
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Permissions");
+                });
+
+            modelBuilder.Entity("WebApplication1.Models.Role", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("RoleS");
+                });
+
+            modelBuilder.Entity("WebApplication1.Models.User", b =>
+                {
+                    b.Property<int>("Id")
+                        .HasColumnType("integer");
 
                     b.Property<string>("Adress")
                         .IsRequired()
@@ -47,7 +108,37 @@ namespace WebApplication1.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Users");
+                    b.ToTable("UseR");
+                });
+
+            modelBuilder.Entity("PermissionRole", b =>
+                {
+                    b.HasOne("WebApplication1.Models.Permission", null)
+                        .WithMany()
+                        .HasForeignKey("PermissionR_PId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("WebApplication1.Models.Role", null)
+                        .WithMany()
+                        .HasForeignKey("RoleP_RId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("RoleUser", b =>
+                {
+                    b.HasOne("WebApplication1.Models.Role", null)
+                        .WithMany()
+                        .HasForeignKey("RoleU_RId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("WebApplication1.Models.User", null)
+                        .WithMany()
+                        .HasForeignKey("UserR_UId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 #pragma warning restore 612, 618
         }
